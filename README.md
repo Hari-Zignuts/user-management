@@ -47,8 +47,8 @@ Check out the live demo of the application [here](https://users-management-three
 
 ## Screenshot
 
-![home Screenshot](./screenshot1.png)
-![Website Screenshot](./screenshot2.png)
+![home Screenshot](./client/screenshot1.png)
+![Website Screenshot](./client/screenshot2.png)
 
 ## Contributing
 
