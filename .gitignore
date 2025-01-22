@@ -1,0 +1,27 @@
+# Ignore node_modules in both client and server
+client/node_modules/
+server/node_modules/
+
+# Ignore build output in client
+client/.next/
+client/out/
+
+# Ignore environment variables
+client/.env
+server/.env
+
+# Ignore log files
+client/npm-debug.log*
+server/npm-debug.log*
+client/yarn-debug.log*
+server/yarn-debug.log*
+client/yarn-error.log*
+server/yarn-error.log*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
